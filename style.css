@@ -11,3 +11,11 @@ h2{
 #first{
   margin-bottom:125px;
 }
+#inline{
+  display:inline;
+  width:75%
+}
+#inline img{
+  display:inline;
+  width:15%;
+}
