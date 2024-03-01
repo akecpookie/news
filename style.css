@@ -20,5 +20,6 @@ h2{
   width:15%;
 }
 #caption{
+  display:inline;
   width:7.5%;
 }
